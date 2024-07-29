@@ -1,0 +1,6 @@
+@HeulyAPI_HostAddress = http://localhost:5020
+
+GET {{HeulyAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
